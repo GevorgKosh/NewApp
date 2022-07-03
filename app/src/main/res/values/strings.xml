@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="title_text">Play \nrelaxing songs</string>
+    <string name="content_text">Lorem ipsum dolor sit amet</string>
+    <string name="btn_enable_text">Enable</string>
+    <string name="icon_text">A</string>
+</resources>
